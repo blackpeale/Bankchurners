@@ -20,12 +20,12 @@ The model utilizes a dataset containing the following columns: 'Total_Trans_Amt'
 
 The deployed model achieved an impressive accuracy of 97% in predicting bank customer churn. This high level of accuracy enables financial institutions to effectively identify and address customer churn, ultimately improving profitability and customer satisfaction.
 
-## Future Improvements
+## Conclusion
 
-- Continuously monitor model performance and update as needed.
-- Explore additional features or data sources to further enhance predictive capabilities.
-- Incorporate feedback from users to refine the model and improve user experience.
+The Bank Churners Machine Learning project, employing the Random Forest algorithm with a remarkable 97% accuracy, presents a pivotal advancement in the realm of financial analytics. Through meticulous data analysis, feature engineering, and model development, a predictive tool capable of identifying customers at risk of churn with exceptional precision. This achievement not only enhances the operational efficiency of financial institutions but also underscores the potential for data-driven strategies to foster customer retention and drive profitability. Moving forward, the project sets a solid foundation for continuous improvement and innovation, signaling a promising future for leveraging machine learning in the banking sector. 
 
+## Instructions
+To use the deployed model, simply visit the deployment link provided above. Enter the necessary parameters and the model will accurately predict if the customer is at risk of churn or not.
 
 
 
