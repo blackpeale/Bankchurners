@@ -14,7 +14,7 @@ The model utilizes a dataset containing the following columns: 'Total_Trans_Amt'
 
 3. **Model Development**: Various machine learning algorithms were trained and evaluated using techniques such as cross-validation to select the most suitable model.The Random Forest algorithm was chosen for its ability to handle complex datasets and provide accurate predictions. The model was trained and evaluated using techniques such as cross-validation to ensure robust performance.
 
-4. **Model Deployment**:  The trained Random Forest model was deployed using Streamlit, providing a user-friendly interface for users to interact with the predictive tool. The deployment is hosted on Streamlit Share and can be accessed [here](https://bankchurners.streamlit.app/)..
+4. **Model Deployment**:  The trained Random Forest model was deployed using Streamlit, providing a user-friendly interface for users to interact with the predictive tool. The deployment is hosted on Streamlit Share and can be accessed [here](https://bankchurners.streamlit.app/).
 
 ## Results
 
